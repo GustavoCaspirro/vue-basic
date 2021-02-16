@@ -1,5 +1,4 @@
 # Vue
----
 ## App básico utilizando vue.js
 
 ### Comandos básicos
